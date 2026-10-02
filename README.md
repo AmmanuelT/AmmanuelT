@@ -22,7 +22,7 @@ My passion is learning how things work and fixing things. I enjoy finding pain p
 
 
 - **Position**: Msc in Computer Science at Maynooth University 🎓
-- **Currently Learning**: Advancing my Python 🐍, Compilers data
+- **Currently Learning**: Advancing my Python 🐍, Compilers, and Databases
 - **Projects**: Dataform youtube videos, Gistory (plot plotting tool), technical blog, refractor of older projects (TableauLab) !
 - **Intrests**: Reading, Anime and Guitar (Don't ask me about the first two or you'l never hear the end of it)
 
